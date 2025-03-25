@@ -24,6 +24,8 @@ The Food and Beverage Sales Analysis Dashboard is designed to provide insights i
   
 
 ## Analysis
+![FOOD 1](https://github.com/user-attachments/assets/03167ddf-48d8-44e5-be5b-f9b5a28f89e2)
+
 ### Total Revenue and Orders  
 - The dashboard presents the total revenue as **$17.91M** and total orders as **52.6K**.  
 
